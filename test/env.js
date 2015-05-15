@@ -1,4 +1,4 @@
-var meta = require('../index.js'),
+var meta = require('../jet_meta.js'),
     assert = require('assert');
 
 describe('Env', function () {
