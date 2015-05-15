@@ -1,0 +1,15 @@
+{
+  "name": "jet_meta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jet_meta.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "complex-module": "^1.0.0",
+    "esprima": "^2.2.0",
+    "js-yaml": "^3.3.1",
+    "yaml": "^0.2.3"
+  }
+}
